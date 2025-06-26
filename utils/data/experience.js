@@ -9,24 +9,18 @@ export const experiences = [
     id: 2,
     title: "Associate AI Engineer",
     company: "Ergebnis Technologies Pvt. Ltd.",
-    duration: "(Sep 2023 - Mar 2024)"
+    duration: "(May 2023 - Feb 2024)"
   },
   {
     id: 3,
-    title: "Machine Learning Engineer (Intern)",
-    company: "MLX AI",
-    duration: "(Jul 2023 - Aug 2023)"
+    title: "AI Intern",
+    company: "Techolution",
+    duration: "(Oct 2022 - Apr 2023)"
   },
   {
     id: 4,
-    title: "AI Intern",
-    company: "Techolution",
-    duration: "(Mar 2023 - Jul 2023)"
-  },
-  {
-    id: 5,
     title: "AI/ML Project Intern",
     company: "STMicroelectronics",
-    duration: "(Aug 2022 - Mar 2023)"
+    duration: "(May 2022 - Oct 2022)"
   }
 ]
