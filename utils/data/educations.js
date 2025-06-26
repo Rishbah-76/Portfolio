@@ -18,9 +18,9 @@ export const educations = [
   {
     id: 1,
     title: "Masters (MComp A.I)",
-    duration: "2024 - Present",
+    duration: "(Aug) 2024 - (July) 2025",
     institution: "National University of Singapore (NUS)",
-    gpa: "In Progress",
+    gpa: "3.7/5",
     courses: [
       "Advanced Machine Learning",
       "Adavcned Neural Networks",
