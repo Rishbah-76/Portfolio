@@ -12,5 +12,5 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/Rishabh_76/",
   devUsername: "rbrishabh76",
   mediumUsername: "rbrishabh76",
-  resume: "https://drive.google.com/file/d/1YrW13-vST1HE2jat1ssgeu3jTRY455U_/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1H0p4bZISobEaKiYHRKXH8dugCcq5-5jP/view?usp=drive_link"
 }
